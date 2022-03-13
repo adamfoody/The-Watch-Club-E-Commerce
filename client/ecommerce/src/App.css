@@ -1,0 +1,272 @@
+.gridHomePage{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color:"#3f51b5";
+  padding-left: 20px;
+   margin-left: 20px;
+   
+
+
+
+ }
+
+ .MuiCard-root.custom-filter-card{
+   height: 100px;
+   transition: all 0.5s ease-in-out;
+ 
+ }
+
+
+
+ .MuiCard-root.custom-filter-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 5px 5px #673ab7;
+}
+
+
+
+ .productCard{
+  height: 400px;
+  
+
+}
+
+ .main{
+  margin-bottom: 40px;
+  display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.footer{
+
+    margin-top: auto;
+
+}
+
+ .color1{
+  color:"#3f51b5";
+  
+
+
+ }
+
+
+ 
+
+ .gap{
+   padding-top: 20px;
+ 
+
+ }
+
+ .test1{
+  gap: 1.5rem;
+  align-self: left;
+ }
+
+.padding{
+   margin: 5px;
+  
+
+}
+
+.textMiddle{
+  padding-top: 5px;
+  text-align: center;
+
+}
+
+.buttonGroup{
+ align-items: center;
+ align-content: center;
+ align-self: center;
+  
+}
+
+.center{
+
+ align-items: center;
+ align-content: center;
+ align-self: center;
+ text-align: center;
+
+}
+
+.MuiCard-root.cardHeight{
+  height: 275px;
+  transition: all 0.5s ease-in-out;
+ 
+}
+
+
+.MuiCard-root.cardHeight:hover{
+  transform: scale(1.05);
+  box-shadow: 0px 0px 5px 5px #673ab7;
+  
+}
+
+
+
+
+
+.banner{
+  background-image: url("https://affordwatches.com/wp-content/uploads/2020/10/Rolex-Banner.jpg");
+
+  
+
+}
+
+.sellBanner{
+  padding-top: 150px;
+  padding-bottom: 150px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    background-color: #21262d;
+    background-image: linear-gradient(to bottom right, #121212, #3d4a5d);
+
+ 
+  
+  
+}
+
+.aboutBanner{
+  padding-top: 75px;
+  padding-bottom: 75px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    background-color: #21262d;
+    background-image: linear-gradient(to bottom right, #121212, #3d4a5d);
+
+ 
+  
+  
+}
+
+.aboutBanner2{
+  padding-top: 50px;
+  padding-bottom: 50px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    background-color: #90a4ae;
+
+
+ 
+  
+  
+}
+
+
+.sellFormBanner{
+  padding-top: 50px;
+  padding-bottom: 50px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+
+    background-color: #21262d;
+
+ 
+  
+  
+}
+
+.banner2{
+  background-image: url("https://www.watchclub.com/upload/watches/home/home-26-Des-486.jpg");
+  display:block;
+  
+
+}
+
+
+.homePageBannerSell{
+  background-image: url("https://www.watchclub.com/img/content/internal/sellYourWatch/sell-your-watch-long.jpeg");
+  background-size: auto;
+
+}
+
+.homeImage{
+  background-image: url("https://i.ibb.co/WkpCbqQ/rolex-2021-roundup-lead-1618236113.jpg");
+  height: 1000px;
+  width: 1500px;
+
+
+}
+.banner1{
+  background-image: url("https://affordwatches.com/wp-content/uploads/2020/10/Rolex-Banner.jpg");
+  padding: 500px;
+  
+
+}
+
+.MuiCard-root.custom-card{
+  height: 600px;
+  transition: all 0.5s ease-in-out;
+  
+}
+
+
+
+.MuiCard-root.custom-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 5px 5px #673ab7;
+}
+
+.MuiCard-root.team-card{
+  transition: all 0.5s ease-in-out;
+
+}
+
+.MuiCard-root.team-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 5px 5px #673ab7;
+}
+
+
+.navBarShoppingIcon{
+
+  display: grid;
+  grid-auto-flow: column;
+  padding-right:  60px;
+
+}
+
+.about{
+  text-align: center;
+
+  
+
+}
+
+.paddingRight{
+  padding-right: 10px;
+ 
+}
+
+.heightContactCard{
+  height: 500px;
+}
+
+.productPageCard{
+  height: 3000px;
+}
+
+.red{
+  color: red;
+}
+
+.spinner{
+  align-items: center;
+  align-content: center;
+  align-self: center;
+  text-align: center;
+
+
+}

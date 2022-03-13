@@ -1,0 +1,25 @@
+.bannerF {
+  padding-top: 150px;
+  padding-bottom: 150px;
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    background-color: #21262d;
+    background-image: linear-gradient(to bottom right, #121212, #3d4a5d);
+
+  }
+
+  
+  
+  .bannerF > div > div {
+    align-items: center;
+  }
+  
+  .brandImg {
+    display: flex;
+    align-items: center;
+
+  }
+
+ 

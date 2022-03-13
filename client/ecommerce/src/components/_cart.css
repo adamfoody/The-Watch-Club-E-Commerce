@@ -1,0 +1,29 @@
+.test{
+    align-content: center;
+    text-align: center;
+ 
+    gap: 10rem;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+ 
+
+
+}
+
+.cart__total{
+    color: "#DC143C";
+    gap: 1.5rem;
+    padding: 10px;
+
+}
+
+.buttonGroup{
+  padding-bottom: 10px;
+
+}
+
+.gapCart{
+    padding-top: 5px;
+}
+
