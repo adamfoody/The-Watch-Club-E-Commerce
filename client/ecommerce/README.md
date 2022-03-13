@@ -19,9 +19,11 @@ Open terminal, change directory to the client folder and run the npm start comma
 
 <img width="1433" alt="Screenshot 2022-01-28 at 21 08 30" src="https://user-images.githubusercontent.com/78685641/158069786-a7e27c36-9acb-43f1-b840-ee4062227a98.png">
 
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/78685641/158070076-1c869a38-4bb3-474d-81fb-047f9d493baf.png">
+
+
 <img width="1433" alt="Screenshot 2022-01-28 at 21 08 30" src="https://user-images.githubusercontent.com/78685641/158069818-3b96eedb-83f2-4a62-8310-6b1362f8eba2.png">
 
-<img width="1423" alt="image" src="https://user-images.githubusercontent.com/78685641/158070076-1c869a38-4bb3-474d-81fb-047f9d493baf.png">
 
 <img width="1433" alt="Screenshot 2022-01-28 at 21 08 30" src="https://user-images.githubusercontent.com/78685641/158069849-f2092057-d72c-47f1-9b4c-d3ab7414ae9e.png">
 
