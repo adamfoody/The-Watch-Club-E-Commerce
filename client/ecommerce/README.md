@@ -12,7 +12,9 @@ To start the application.
 
 Open terminal, change directory to the client folder and run the npm start command.
 
-## Video Link: https://www.youtube.com/watch?v=xfc-n0ekkWw
+### Video Link: https://www.youtube.com/watch?v=xfc-n0ekkWw
+
+<img width="1423" alt="image" src="https://user-images.githubusercontent.com/78685641/158070076-1c869a38-4bb3-474d-81fb-047f9d493baf.png">
 
 
 <img width="1423" alt="Screenshot 2022-01-28 at 21 01 42" src= "https://user-images.githubusercontent.com/78685641/158069732-635772e7-b7ec-442a-a005-39914b00566f.png">
